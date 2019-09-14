@@ -1,7 +1,3 @@
-'''
-Implementation of Denoising Autoencoder
-Author : Diksha Thakur
-'''
 import os
 import gzip
 import numpy as np
